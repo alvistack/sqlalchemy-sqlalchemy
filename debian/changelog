@@ -1,0 +1,5 @@
+python-sqlalchemy (100:2.0.45-1) UNRELEASED; urgency=medium
+
+  * https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_45
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 10 Dec 2025 16:04:30 +0800
