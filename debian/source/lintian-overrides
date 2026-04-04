@@ -1,0 +1,5 @@
+python-sqlalchemy source: file-without-copyright-information
+python-sqlalchemy source: no-debian-changes
+python-sqlalchemy source: source-contains-prebuilt-windows-binary
+python-sqlalchemy source: source-is-missing
+python-sqlalchemy source: source-package-encodes-python-version
