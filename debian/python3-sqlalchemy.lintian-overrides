@@ -1,0 +1,4 @@
+python3-sqlalchemy: copyright-without-copyright-notice
+python3-sqlalchemy: initial-upload-closes-no-bugs
+python3-sqlalchemy: no-manual-page
+python3-sqlalchemy: zero-byte-file-in-doc-directory
